@@ -13,7 +13,7 @@
 - Other Games like: PUBG, Genshin Impact, Minecraft, CSGO 
 
 ## Programming languages that i know/currently learning
-- Python
+- Python *(currently learning)*
 - C# *(currently learning)*
-- Javascript *(currently learning)*
+- Javascript
 - VB
