@@ -1,6 +1,6 @@
 ## About me
 - I'm just a normal student
-- I love to learn new things
+- I loves to learn new things
 - I'm not a professional programmer 
 
 > ~~tbh,i'm too lazy to write code~~ 
